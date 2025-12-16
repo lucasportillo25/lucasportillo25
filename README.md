@@ -67,9 +67,9 @@ The repository includes:
 
 ## Professional Goal
 
-My objective is to work at the intersection of **Power Systems Engineering and Data Science**, developing analytical and predictive solutions for energy systems.
+In the short term, I aim to apply these skills in engineering and energy-related roles, contributing to the analysis, modeling, and optimization of power systems.
 
-In the short term, I aim to apply these skills in engineering and energy-related roles. In the long term, my goal is to pursue international opportunities—particularly in **the United States or Canada**—focused on advanced power systems analysis, data-driven energy solutions, and machine learning applications in the energy sector.
+In the long term, my goal is to participate in **large-scale, global, and international energy projects**, applying advanced power systems analysis, data-driven methodologies, and machine learning techniques to complex engineering challenges across different regions and markets.
 
 ---
 
