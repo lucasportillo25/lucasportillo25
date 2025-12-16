@@ -77,7 +77,7 @@ In the long term, my goal is to participate in **large-scale, global, and intern
 
 You can reach me via the following platforms:
 
-- **LinkedIn**: ((https://www.linkedin.com/in/lucas-portillo-634b83166/))
+- **LinkedIn**: https://www.linkedin.com/in/lucas-portillo-634b83166/
 - **Email**: lucas25portillo@gmail.com
 
 ---
